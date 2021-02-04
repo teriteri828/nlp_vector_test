@@ -1,0 +1,10 @@
+flask
+scikit-learn
+tensorflow 
+tensorflow_hub
+tensorflow_text>=2.0.0rc0
+tf_sentencepiece
+flask-bootstrap4
+mecab-python3==0.996.5
+pandas
+gensim
